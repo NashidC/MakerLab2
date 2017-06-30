@@ -1,4 +1,5 @@
 #  Maker Lab Rapid Prototyping Page
+Hi! My name is Nashid and I'm a software assistant intern at the Zahn Innovation Center. I'm trying to make a landing page for hardware prototyping. Thanks!
 <!-- # [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
 
 [Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
